@@ -1,21 +1,19 @@
-# Example Objective
+# Objective 2
 
 <div class="aside">
 <h3>To-Do List</h3>
 <ul>
-  <li>It's good to keep high level tasks here.</li>
-  <li>Let players know when to click <em>HACK</em>.</li>
+  <li>Start a new Bot application.</li>
+  <li>once you have the link to the bot application past it and click <em>HACK</em>.</li>
 </ul>
 </div>
 
-Give players a little bit of information about what they need to do to hack past this objective. If you find yourself writing more than a few short paragraphs of text, it's likely your objective is too big!
+Now that you have found the developer portal, your next task is to create a Bot application and get the link for it here 
 
-## You can make sub headers with more information
+## Feeling Stuck?
 
-Some times you wan to talk about additional concepts beyond the high level goal that might help players accomplish the high level goal.
+Theres nothing wrong with needing some help! From the home screen of the dev portal click the new application button found on the top right hand corner of the screen. After this head on over to bot to create you bot. Finally head over to OAuth2 scrolling down to the url generator and clicking on bot and getting your link. Your all done
 
-```js
-const areCodeSamplesVeryHelpful = true;
-```
 
-Describe the final values for your player one last time. Then ask them to click the _HACK_ button.
+
+copy paste you bot link into the text box and click on the _HACK_ button.

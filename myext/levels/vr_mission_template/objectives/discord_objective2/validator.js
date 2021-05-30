@@ -3,7 +3,7 @@ In your validation code, you can require core Node.js modules,
 third-party modules from npm, or your own code, just like a regular
 Node.js module (since that's what this is!)
 */
-const { isTwilio } = require("../lib/example_helper");
+const { isBotLink } = require("../lib/example_helper");
 
 /*
 Objective validators export a single function, which is passed a helper
@@ -21,10 +21,9 @@ module.exports = async function (helper) {
   // Next, you test the user input - fail fast if they get one of the
   // answers wrong, or some aspect is wrong! Don't provide too much
   // negative feedback at once, have the player iterate.
-  if (!answer1 || !isTwilio(answer1)) {
+  if (!answer1 || !isBotLink(answer1)) {
     return helper.fail(`
-      The answer to the first question is incorrect. The company that
-      makes TwilioQuest starts with a "T" and ends with a "wilio".
+      That doesnt look exactly write, make sure you got everything. If your stuck look back at the feeling stuck section
     `);
   }
 

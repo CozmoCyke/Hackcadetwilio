@@ -1,18 +1,18 @@
 {
-  "title": "Example Objective 2",
-  "description": "This is what an <strong>objective description</strong> looks like!",
+  "title": "Making Commands",
+  "description": "This is where you get to have fun",
   "validation_fields": [
     {
       "name": "answer1",
       "type": "text",
       "placeholder": "type your answer here",
-      "label": "What is the name of the company that makes TwilioQuest?"
+      "label": "What is the sufix in order to make commands?"
     },
     {
       "name": "answer2",
       "type": "text",
       "placeholder": "type your answer here",
-      "label": "What is 2 + 2? Write the numerical response below."
+      "label": "what is the proper way to make a command function?"
     }
   ],
   "rewards": {

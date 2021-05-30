@@ -1,18 +1,18 @@
 {
-  "title": "Example Objective 2",
-  "description": "This is what an <strong>objective description</strong> looks like!",
+  "title": "Gathering Modules",
+  "description": "This is the final step in terms of pre requisits",
   "validation_fields": [
     {
       "name": "answer1",
       "type": "text",
       "placeholder": "type your answer here",
-      "label": "What is the name of the company that makes TwilioQuest?"
+      "label": "What is the import statment for operating system?"
     },
     {
       "name": "answer2",
       "type": "text",
       "placeholder": "type your answer here",
-      "label": "What is 2 + 2? Write the numerical response below."
+      "label": "what is the import statment of commands?"
     }
   ],
   "rewards": {

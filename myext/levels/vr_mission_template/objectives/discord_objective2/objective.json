@@ -1,12 +1,12 @@
 {
-  "title": "Example Objective",
-  "description": "This is what an <strong>objective description</strong> looks like!",
+  "title": "Creating a Bot",
+  "description": "Your Second step is to now create a bot",
   "validation_fields": [
     {
       "name": "answer1",
       "type": "text",
-      "placeholder": "type your answer here",
-      "label": "What is the name of the company that makes TwilioQuest?"
+      "placeholder": "link",
+      "label": "What is your bots link?"
     }
   ],
   "rewards": {

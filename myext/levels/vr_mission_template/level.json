@@ -12,5 +12,5 @@
   "flavorTextOverrides": {
     "bookshelf": "There's nothing like a good book."
   },
-  "objectives": ["developer_portal", "bot_link", "module_installation","making_commands","sending_messages"]
+  "objectives": ["discord_objective", "discord_objective2", "discord_objective3","discord_objective4","discord_objective5"]
 }

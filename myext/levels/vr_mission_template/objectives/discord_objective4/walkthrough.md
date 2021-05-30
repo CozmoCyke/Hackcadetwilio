@@ -1,5 +1,3 @@
 # The "Help" Tab
 
-We may remove this tab and content in the future, but in the current iteration of TwilioQuest, this is where you would put more hand-holdy content intended to guide the player through what needed to be done.
-
-We find that what works better is linking to external resources on the web, rather than recreatign a tutorial here.
+Dicords API is very explicit (this means that most commands are simply that word. For example in order to declare an event the command is @client.event). Next in order to make a API function you will first need to use aysnc followed by regular naming convention.

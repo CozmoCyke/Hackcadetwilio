@@ -1,0 +1,16 @@
+{
+  "title": "Discord.py API Training",
+  "description": "An amazing all in one limited time 100% inclusive course for discord.py. Total awsome sauce",
+  "mission_icon": "mission_icon.png",
+  "is_mission": true,
+  "priority": 1,
+  "backgroundMusic": "hackertheme_104771b",
+  "backgroundEffect": {
+    "key": "vr",
+    "options": {}
+  },
+  "flavorTextOverrides": {
+    "bookshelf": "There's nothing like a good book."
+  },
+  "objectives": ["developer_portal", "bot_link", "module_installation","making_commands","sending_messages"]
+}
